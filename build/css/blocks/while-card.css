@@ -1,0 +1,24 @@
+.while-card {
+  width: 100%;
+}
+@media (max-width: 767px) {
+  .while-card {
+    width: auto;
+    margin-left: -16px;
+    margin-right: -16px;
+  }
+}
+.while-card__video-title {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+@media (max-width: 767px) {
+  .while-card__video-title {
+    padding-top: 2px;
+    padding-left: 16px;
+    margin-bottom: 2px;
+  }
+}/*# sourceMappingURL=while-card.css.map */

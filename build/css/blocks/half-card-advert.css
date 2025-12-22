@@ -1,0 +1,39 @@
+.half-card-advert {
+  height: 100%;
+}
+.half-card-advert__link {
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
+  overflow: hidden;
+}
+.half-card-advert:hover, .half-card-advert:focus {
+  transform: scale(1.01);
+  transition: transform 0.5s;
+}
+.half-card-advert__img {
+  width: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  height: 100%;
+}
+
+@media (max-width: 1024px) {
+  .half-card-advert__link {
+    height: 355px;
+  }
+  .half-card-advert__img {
+    height: 355px;
+  }
+}
+@media (max-width: 767px) {
+  .half-card-advert {
+    height: auto;
+  }
+  .half-card-advert__link {
+    height: auto;
+  }
+  .half-card-advert__img {
+    height: auto;
+  }
+}/*# sourceMappingURL=half-card-advert.css.map */

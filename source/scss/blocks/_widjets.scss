@@ -1,0 +1,15 @@
+@use "../variables" as *;
+
+.widjets {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 30.88%;
+}
+
+@media (max-width: $tablet-width) {
+  .widjets {
+    width: 41.37%;
+  }
+}
