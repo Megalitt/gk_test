@@ -1,0 +1,1 @@
+{"version":3,"sources":["blocks/fixed-block.min.css"],"names":[],"mappings":"AAAA,Y,CACE,e,CACA,Q","file":"blocks/fixed-block.min.css","sourcesContent":[".fixed-block {\n  position: sticky;\n  top: 75px;\n}/*# sourceMappingURL=fixed-block.css.map */\r\n"]}
