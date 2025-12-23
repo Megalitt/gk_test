@@ -1,1 +1,0 @@
-{"version":3,"sources":["blocks/bunner-side.min.css"],"names":[],"mappings":"AAAA,kB,CAGA,sB,CAFE,a","file":"blocks/bunner-side.min.css","sourcesContent":[".bunner-side__link {\n  display: block;\n}\n.bunner-side__link img {\n  display: block;\n}/*# sourceMappingURL=bunner-side.css.map */\r\n"]}
